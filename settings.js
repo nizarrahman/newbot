@@ -17,7 +17,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 //owmner v card
 global.owner = ['6281386945391'] //ur owner number
 global.ownername = "Nizar" //ur owner name
-global.ytname = "-" //ur yt chanel name
+global.ytname = "Website: https://www.nizarr.my.id" //ur yt chanel name
 global.socialm = "Insta: https://instagram.com/nizarrrahman.f_" //ur github or insta name
 global.location = "Cianjur, Jawa Barat, Indonesia" //ur location
 
@@ -40,13 +40,13 @@ global.sp = ''
 
 //messages
 global.mess = {
-    success: 'Here you go!',
-    admin: 'This feature could be used by admins only!',
-    botAdmin: 'Bot Must Be Admin First!',
+    success: 'Succes!',
+    admin: 'Emang Lu Admin?!',
+    botAdmin: 'Gw Bukan Admin Tod!',
     premime: 'Premium Special Features If You Want to Register Type Rent',
     owner: 'This feature could be used by owner only',
-    group: 'Features Used Only For Groups!',
-    private: 'Features Used Only For Private Chat!',
+    group: 'Khusus Grup!',
+    private: 'Gunakan Di Private Chat!',
     bot: 'This feature could be used by bot only',
     wait: 'In process...',
     linkm: 'Where is the link?',
